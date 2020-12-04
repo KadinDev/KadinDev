@@ -5,7 +5,7 @@ Atualmente sou aluno do **LaunchBase** da  [Rocketseat](https://rocketseat.com.b
 **"O treino leva a perfeição!"**
 
 ## ... café, computador, e muito código ...  💻❤️
--   💻**Full Stack Developer Jr**
+-   💻**Front-End Developer**
 
 ![enter image description here](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif) 
 
