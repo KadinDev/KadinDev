@@ -1,11 +1,11 @@
 ## Ricardo Alves
 
 Mais um alguém totalmente apaixonado por programação! <br/>
-Atualmente sou aluno do **LaunchBase** da  [Rocketseat](https://rocketseat.com.br/), já com os olhos futuramente no [GoStack](https://pages.rocketseat.com.br/gostack) tbm haha, um passo de cada vez, e a cada dia buscando sempre o próximo nível.  <br/>
+Javascript | Node | ReactJs | ReactNative
 **"O treino leva a perfeição!"**
 
 ## ... café, computador, e muito código ...  💻❤️
--   💻**Front-End Developer**
+-   💻**Full Stack Developer In Progress**
 
 ![enter image description here](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif) 
 
