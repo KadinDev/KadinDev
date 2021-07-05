@@ -1,7 +1,7 @@
 ## Ricardo Alves
 
 Mais um alguém totalmente apaixonado por programação! <br/>
-Javascript | Node | ReactJs | ReactNative
+Javascript | Node | ReactJs | ReactNative <br/>
 **"O treino leva a perfeição!"**
 
 ## ... café, computador, e muito código ...  💻❤️
