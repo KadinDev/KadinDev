@@ -1,4 +1,4 @@
-## Ricardo Alves
+
 
 Mais um alguém totalmente apaixonado por programação! <br/>
 Javascript | Node | ReactJs | ReactNative <br/>
