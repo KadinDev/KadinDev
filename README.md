@@ -1,4 +1,4 @@
-###Ricardo Correa
+# Ricardo Correa
 
 Mais um alguém totalmente apaixonado por programação! <br/>
 Javascript | Node | ReactJs | ReactNative <br/>
