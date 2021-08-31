@@ -1,7 +1,7 @@
 # Ricardo Correa
 
 Mais um alguém totalmente apaixonado por programação! <br/>
-Javascript | Node | ReactJs | ReactNative <br/>
+Javascript | Node | ReactNative <br/>
 **"O treino leva a perfeição!"**
 
 ## ... café, computador, e muito código ...  💻❤️
