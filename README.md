@@ -1,4 +1,4 @@
-## Helloo!! Eu sou Ricardo Alves, mas pode me chamar de Kadin 🤙
+## Opaa!! Eu sou Ricardo Alves 🤙
 
 <div align="center">
   <a href="https://github.com/KadinDev">
