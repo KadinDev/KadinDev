@@ -1,4 +1,4 @@
-## Desenvolvedor Front-End React apaixonado por transformar ideias em realidade digital!
+## Desenvolvedor Front-End React
 
 <div align="center">
   <a href="https://github.com/KadinDev">
