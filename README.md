@@ -1,4 +1,4 @@
-## Desenvolvedor Front-End React
+## Developer Frontend React
 
 <div align="center">
   <a href="https://github.com/KadinDev">
