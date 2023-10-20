@@ -1,4 +1,4 @@
-## Developer Frontend React
+## Mobile Developer | React Native - Node
 
 <div align="center">
   <a href="https://github.com/KadinDev">
@@ -25,14 +25,11 @@
   
 
 ## 🚀 Sobre mim
-Com habilidades sólidas em React e uma mente curiosa, estou constantemente buscando soluções inovadoras para desafios complexos. 
-Minha persistência e foco me impulsionam a aprimorar minhas habilidades constantemente, sempre em busca de superar expectativas e entregar resultados excepcionais.
+Com habilidades sólidas em React Native como minha especialidade principal, também tenho uma experiência substancial em Node e React. Com uma mente curiosa, estou constantemente buscando soluções inovadoras para desafios complexos no mundo do desenvolvimento mobile. Minha persistência e foco me impulsionam a aprimorar minhas habilidades constantemente, sempre em busca de superar expectativas e entregar resultados excepcionais na área de React Native.
 
-Além disso, estou sempre animado em expandir meus horizontes e aplicar meu conhecimento de React em projetos variados, criando interfaces incríveis e experiências envolventes para os usuários.
+Além disso, estou sempre animado em expandir meus horizontes e aplicar meu conhecimento de React e Node em projetos variados quando necessário, criando interfaces incríveis e experiências envolventes para os usuários. A versatilidade que ganhei ao trabalhar com React e Node me permite contribuir de forma eficaz em todas as fases de desenvolvimento de aplicativos mobile.
 
-Se você procura um desenvolvedor Front-End React apaixonado por transformar ideias em interfaces incríveis, estou pronto para enfrentar os desafios mais empolgantes e fazer parte de projetos que revolucionam a experiência digital.
-
-
+Se você procura um desenvolvedor mobile especializado em React Native, com a habilidade de se adaptar e aplicar seu conhecimento em React e Node conforme necessário, estou pronto para enfrentar os desafios mais empolgantes e fazer parte de projetos que revolucionam a experiência digital em dispositivos móveis.
 
   ##
   
