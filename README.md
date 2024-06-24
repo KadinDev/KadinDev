@@ -1,4 +1,4 @@
-## Mobile Developer | React Native - Node
+## React Native Developer
 
 <div align="center">
   <a href="https://github.com/KadinDev">
