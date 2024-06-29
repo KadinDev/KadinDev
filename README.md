@@ -24,14 +24,7 @@
   ##
   
 
-## 🚀 Sobre mim
-Com habilidades sólidas em React Native como minha especialidade principal, sou um desenvolvedor mobile dedicado e apaixonado por criar soluções inovadoras para desafios complexos no mundo do desenvolvimento de aplicativos. Minha persistência e foco me impulsionam a aprimorar minhas habilidades constantemente, sempre em busca de superar expectativas e entregar resultados excepcionais na área de React Native.
-
-Minha experiência me permite criar interfaces incríveis e experiências envolventes para os usuários, garantindo que cada projeto atenda aos mais altos padrões de qualidade e desempenho. A profundidade do meu conhecimento em React Native me permite contribuir de forma eficaz em todas as fases de desenvolvimento de aplicativos mobile, desde a concepção até a implementação e manutenção.
-
-Se você procura um desenvolvedor mobile especializado em React Native, com a habilidade de entregar soluções de alta qualidade e inovadoras, estou pronto para enfrentar os desafios mais empolgantes e fazer parte de projetos que revolucionam a experiência digital em dispositivos móveis.
-
--------------------------------------------------------------------------------------------------------
+## 🚀 About me
 
 With strong skills in React Native as my main specialty, I am a dedicated and passionate mobile developer committed to creating innovative solutions for complex challenges in the world of app development. My persistence and focus drive me to constantly improve my skills, always striving to exceed expectations and deliver exceptional results in the realm of React Native.
 
