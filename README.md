@@ -26,12 +26,8 @@
 
 ## 🚀 About me
 
-I am a dedicated mobile developer with a passion for creating solutions to complex challenges in the world of app development. Focused on constantly improving my skills, I always strive to exceed expectations and deliver the best results in the field of React Native.
-
-With experience in creating amazing and engaging user interfaces, I ensure that each project meets the highest standards of quality and performance. My knowledge of React Native allows me to contribute effectively at all stages of mobile app development, from conception to implementation and maintenance.
-
-I am a mobile developer specialized in React Native, with the ability to deliver high-quality solutions.
-
+I’m a mobile developer focused on React Native, always looking to build apps that genuinely solve everyday problems.
+I like to think of practical and efficient solutions, and I’m constantly learning to improve what I already know — whether it’s testing new libraries, refining architecture, or optimizing the user experience.
 
   ##
   
