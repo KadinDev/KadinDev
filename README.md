@@ -12,7 +12,7 @@ I like to think of practical and efficient solutions, and I’m constantly learn
   ##
   
 <div align="center">
-  <a href="https://www.linkedin.com/in/ricardo-alves-6a713b1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardo-a-correa-6a713b1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
   ##
