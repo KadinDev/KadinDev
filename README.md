@@ -1,4 +1,4 @@
-## React Native Developer
+## React Native Developer | Mobile Engineer (iOS & Android) | TypeScript • CI/CD • Scalable Apps • Clean Architecture • Supabase
 
 <div align="center">
   <a href="https://github.com/KadinDev">
