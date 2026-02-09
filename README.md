@@ -1,4 +1,4 @@
-## React Native Developer | Mobile Engineer (iOS & Android) | TypeScript • CI/CD • Scalable Apps • Clean Architecture • Supabase
+## Mobile Frontend Engineer (React Native) | Design Systems, Performance & Testing | CI/CD • Supabase • Scalable Apps
 
   
   ##
@@ -6,8 +6,23 @@
 
 ## 🚀 About me
 
-I’m a mobile developer focused on React Native, always looking to build apps that genuinely solve everyday problems.
-I like to think of practical and efficient solutions, and I’m constantly learning to improve what I already know — whether it’s testing new libraries, refining architecture, or optimizing the user experience.
+Mobile developer specialized in React Native, focused on building reliable and scalable production applications.
+
+My work goes beyond creating screens — I design maintainable architectures, reusable design systems and stable user experiences. I care deeply about performance, consistency and long-term maintainability of the codebase.
+
+I have hands-on experience building real applications involving authentication, async data synchronization, subscriptions and backend integration.
+
+Main expertise:
+• React Native + TypeScript
+• Design Systems & component architecture
+• Complex animations (Reanimated)
+• Async state management (TanStack Query)
+• Authentication flows & form handling
+• Unit, Integration and E2E testing
+• CI/CD pipelines and automated builds
+• Supabase integration
+
+I’m comfortable collaborating with backend services and have additional experience with Node.js, Firebase and React.
 
   ##
   
